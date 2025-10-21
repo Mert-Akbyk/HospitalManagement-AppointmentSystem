@@ -1,82 +1,42 @@
 # HospitalManagement\&AppointmentSystem
 
-
-
-\# Hospital Automation
-
-
-
+# Hospital Automation
 Bu proje, C# ve SQL Server kullanılarak geliştirilmiş bir hastane otomasyon sistemidir.
 
+##TR
+## Özellikler:
+- Doktor giriş sistemi
+- Hasta randevu yönetimi
+- Branş ve kullanıcı yönetimi
 
+## Kullanılan Teknolojiler:
+- C# (.NET Framework)
+- SQL Server
+- Windows Forms
 
-\##TR
+##EN
+## Features:
+- Doctor login system
+- Patient appointment management
+- Branch and user management
 
-\## Özellikler:
+## Technologies Used:
+- C# (.NET Framework)
+- SQL Server
+- Windows Forms
 
+## İmages
+![Login](/img/Login.png)
 
+![Patient Login](/img/PatientLogin.png)
 
-\- Doktor giriş sistemi
+![PatientDetail](/img/PatintDetail.png)
 
-\- Hasta randevu yönetimi
+![SecretaryLogin](/img/SecretaryLogin.png)
 
-\- Branş ve kullanıcı yönetimi
+![SecretayDetail](/img/SecretaryDetail.png)
 
+![DoctorLogin](/img/DoctorLogin.png)
 
-
-\## Kullanılan Teknolojiler:
-
-
-
-\- C# (.NET Framework)
-
-\- SQL Server
-
-\- Windows Forms
-
-
-
-\##EN
-
-\## Features:
-
-
-
-\- Doctor login system
-
-\- Patient appointment management
-
-\- Branch and user management
-
-
-
-\## Technologies Used:
-
-
-
-\- C# (.NET Framework)
-
-\- SQL Server
-
-\- Windows Forms
-
-
-
-\## İmages
-
-
-
-![Ana Ekran](/img/Login.png)
-
-![Ana Ekran](/img/PatientLogin.png)
-
-![Ana Ekran](/img/PatintDetail.png)
-
-![Ana Ekran](/img/SecretaryLogin.png)
-
-![Ana Ekran](/img/SecretaryDetail.png)
-
-![Ana Ekran](/img/DoctorLogin.png)
-
-![Ana Ekran](/img/DoctorDetail.png)
+![DoctorDetail](/img/DoctorDetail.png)
 
