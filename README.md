@@ -12,7 +12,9 @@ Bu proje, C# ve SQL Server kullanılarak geliştirilmiş bir hastane otomasyon s
 
 \##TR
 
-\## Özellikler
+\## Özellikler:
+
+
 
 \- Doktor giriş sistemi
 
@@ -22,7 +24,9 @@ Bu proje, C# ve SQL Server kullanılarak geliştirilmiş bir hastane otomasyon s
 
 
 
-\## Kullanılan Teknolojiler
+\## Kullanılan Teknolojiler:
+
+
 
 \- C# (.NET Framework)
 
@@ -34,7 +38,9 @@ Bu proje, C# ve SQL Server kullanılarak geliştirilmiş bir hastane otomasyon s
 
 \##EN
 
-\## Features
+\## Features:
+
+
 
 \- Doctor login system
 
@@ -44,7 +50,9 @@ Bu proje, C# ve SQL Server kullanılarak geliştirilmiş bir hastane otomasyon s
 
 
 
-\## Technologies Used
+\## Technologies Used:
+
+
 
 \- C# (.NET Framework)
 
@@ -52,17 +60,23 @@ Bu proje, C# ve SQL Server kullanılarak geliştirilmiş bir hastane otomasyon s
 
 \- Windows Forms
 
+
+
+\## İmages
+
+
+
 !\[Ana Ekran](/img/Login.png)
 
-!\[Hasta Giriş](/img/PatientLogin.png)
+!\[Ana Ekran](/img/PatientLogin.png)
 
-!\[Hasta Detay](/img/PatintDetail.png)
+!\[Ana Ekran](/img/PatintDetail.png)
 
-!\[Sekreter Giriş](/img/SecretaryLogin.png)
+!\[Ana Ekran](/img/SecretaryLogin.png)
 
-!\[Sekreter Detay](/img/SecretaryDetail.png)
+!\[Ana Ekran](/img/SecretaryDetail.png)
 
-!\[Doktor Giriş](/img/DoctorLogin.png)
+!\[Ana Ekran](/img/DoctorLogin.png)
 
-!\[Doktor Detay](/img/DoctorDetail.png)
+!\[Ana Ekran](/img/DoctorDetail.png)
 
