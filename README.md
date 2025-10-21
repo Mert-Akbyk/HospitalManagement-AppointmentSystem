@@ -66,17 +66,17 @@ Bu proje, C# ve SQL Server kullanılarak geliştirilmiş bir hastane otomasyon s
 
 
 
-!\[Ana Ekran](/img/Login.png)
+![Ana Ekran](/img/Login.png)
 
-!\[Ana Ekran](/img/PatientLogin.png)
+![Ana Ekran](/img/PatientLogin.png)
 
-!\[Ana Ekran](/img/PatintDetail.png)
+![Ana Ekran](/img/PatintDetail.png)
 
-!\[Ana Ekran](/img/SecretaryLogin.png)
+![Ana Ekran](/img/SecretaryLogin.png)
 
-!\[Ana Ekran](/img/SecretaryDetail.png)
+![Ana Ekran](/img/SecretaryDetail.png)
 
-!\[Ana Ekran](/img/DoctorLogin.png)
+![Ana Ekran](/img/DoctorLogin.png)
 
-!\[Ana Ekran](/img/DoctorDetail.png)
+![Ana Ekran](/img/DoctorDetail.png)
 
