@@ -1,9 +1,9 @@
 # HospitalManagement\&AppointmentSystem
 
+## TR
 ## Hastane Otomasyon
 Bu proje, C# ve SQL Server kullanılarak geliştirilmiş bir hastane otomasyon sistemidir.
 
-## TR
 ## Özellikler:
 - Doktor giriş sistemi
 - Hasta randevu yönetimi
